@@ -12,10 +12,10 @@
     "gh-pages": "^1.0.0",
     "react-scripts": "1.0.12"
   },
-  "homepage": "https://ethan.lookfamily.org/resume-shell",
+  "homepage": "http://ethan.lookfamily.org",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "./node_modules/gh-pages/bin/gh-pages -d build -b master",
+    "deploy": "./node_modules/gh-pages/bin/gh-pages -d build -b master -a",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
