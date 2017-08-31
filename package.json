@@ -15,7 +15,7 @@
   "homepage": "https://ethan.lookfamily.org/resume-shell",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "./node_modules/gh-pages/bin/gh-pages -d build",
+    "deploy": "./node_modules/gh-pages/bin/gh-pages -d build -b master",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
