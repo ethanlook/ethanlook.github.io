@@ -1,0 +1,184 @@
+{
+  "name": "Ethan Look",
+  "contactInfo": {
+    "first": [
+      {
+        "title": "ethan@lookfamily.org",
+        "address": "mailto:ethan@lookfamily.org"
+      },
+      {
+        "title": "650-823-8500",
+        "address": "tel:650-823-8500"
+      },
+      {
+        "title": "1401 Parkinson Avenue, Palo Alto, CA 94301",
+        "address": null
+      }    
+    ],
+    "second": [
+      {
+        "title": "github.com/ethanlook",
+        "address": "https://github.com/ethanlook"
+      },
+      {
+        "title": "linkedin.com/in/ethanlook",
+        "address": "https://www.linkedin.com/in/ethanlook"
+      }
+    ]
+  },
+  "objective": {
+      "first": "Full-time employment opportunity at a consumer-facing mobile or web company",
+      "second": "using and growing my skills in iOS, React, Node.js and JavaScript."
+  },
+  "education": {
+    "yearMajor": "B.S. Computer Science & Mathematics, expected 2018",
+    "school": "Vanderbilt University",
+    "gpa": "Major GPA: 3.89, Overall GPA: 3.78",
+    "coursework": [
+      "Artificial Intelligence",
+      "Big Data",
+      "Cloud Computing",
+      "Human Computer Interaction",
+      "Mathematical Data Science",
+      "Web-based System Architecture"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Nest Labs, Palo Alto, CA",
+      "subtitle": "Web Applications Software Engineering Intern, May - August 2017",
+      "description": "A consumer device company intended \"to create a home that takes care of the people inside it and the world around it.\" Developed:",
+      "infoList": [
+        {
+          "description": "Features that leverage new Web APIs. Architected the system for multiple platforms. Worked directly with multiple teams. Documented the implementation and deployment strategies.",
+          "link": null,
+          "linkText": null
+        },
+        {
+          "description": "Dynamic pucks for displaying device state in the \"spaces\" view.",
+          "link": null,
+          "linkText": null
+        },
+        {
+          "description": "A client for the Redux store that reflects localStorage state.",
+          "link": null,
+          "linkText": null
+        },
+        {
+          "description": "React views displaying Redux store data to replace legacy Backbone views.",
+          "link": null,
+          "linkText": null
+        }
+      ]
+    },
+    {
+      "title": "Tidepool, San Francisco, CA",
+      "subtitle": "Software Intern, June - August 2015; May - August 2016",
+      "description": "A non-profit startup developing a secure data platform and applications for people living with Type 1 Diabetes. Developed:",
+      "infoList": [
+        {
+          "description": "A command-line toolkit for data processing, analysis, and conversion of data to xlsx format.",
+          "link": "https://github.com/tidepool-org/command-line-data-tools",
+          "linkText": "(JavaScript)"
+        },
+        {
+          "description": "A client-side data visualization for generating printed reports.",
+          "link": "https://github.com/ethanlook/blip/tree/ethanlook-printview",
+          "linkText": "(JavaScript, React, D3.js)"
+        },
+        {
+          "description": "An iOS framework for interfacing with data ingestion REST APIs.",
+          "link": "https://github.com/ethanlook/TidepoolKit",
+          "linkText": "(Swift)"
+        },
+        {
+          "description": "An iOS application to add context to diabetes data.",
+          "link": "https://github.com/tidepool-org/urchin",
+          "linkText": "(Swift)"
+        },
+        {
+          "description": "Automated and manual tests, documentation.",
+          "link": null,
+          "linkText": null
+        }
+      ]
+    },
+    {
+      "title": "VandyApps, Student Organization",
+      "subtitle": "President, May 2016 - May 2017; Vice President, January - May 2016",
+      "description": "A club for students interested in expanding their software development skills and preparing to be industry-ready engineers.",
+      "infoList": [
+        {
+          "description": "Coordination of weekly general body meetings including guest speakers, tech talks, and learning sessions.",
+          "link": null,
+          "linkText": null
+        },
+        {
+          "description": "Fundraising for club-sponsored events and resources, including our tech library.",
+          "link": null,
+          "linkText": null
+        },
+        {
+          "description": "Preparation and execution of club-sponsored hack nights and coding competitions.",
+          "link": null,
+          "linkText": null
+        },
+        {
+          "description": "Development of teaching materials for introductory iOS sessions.",
+          "link": null,
+          "linkText": null
+        }
+      ]
+    },
+    {
+      "title": "Teaching Assistant and Grader",
+      "subtitle": "Web-based System Architecture Class, January 2017 - present; Data Structures Class, January - December 2016",
+      "infoList": [
+        {
+          "description": "Designing and grading biweekly programming projects and assignments.",
+          "link": null,
+          "linkText": null
+        },
+        {
+          "description": "Student support via weekly office hours.",
+          "link": null,
+          "linkText": null
+        },
+        {
+          "description": "Grading of weekly quizzes, two midterms, and the final exam.",
+          "link": null,
+          "linkText": null
+        },
+        {
+          "description": "Web-based System Architecture prepares students to be full-stack web developers in React, Node.js, MongoDB, and Redis.",
+          "link": null,
+          "linkText": null
+        },
+        {
+          "description": "Data Structures introduces students to data structures and applications, problem solving techniques, and software design.",
+          "link": null,
+          "linkText": null
+        }
+      ]
+    },
+    {
+      "title": "Undergraduate Research Project, January 2017 - present",
+      "description": "Independent study course developing Quizinator, a web-based application to allow professors to easily and securely administer quizzes and exams to students. Developing the client with React, React Router, React Redux, and Material-UI. Developing the server with Node.js, Express, MongoDB, and Redis.",
+      "infoList": []
+    }
+  ],
+  "skills": [
+    "C++",
+    "CSS",
+    "D3.js",
+    "HTML",
+    "Java",
+    "JavaScript",
+    "Node.js",
+    "Processing",
+    "Python",
+    "React",
+    "Redux",
+    "Swift"
+  ]
+}
